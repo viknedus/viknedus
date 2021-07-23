@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viknedus.
 - 👀 I’m interested in developing sotware programs like web & mobile. I also love to design.
-- 🌱 I’m currently learning react & react native.
-- 💞️ I’m looking to collaborate on web and mobile development.
+- 🌱 I’m currently learning react, nextjs, react native & flutter.
+- 💞️ I’m looking to collaborate on web and mobile developmers.
 - 📫 How to reach me on Twitter: @viknedus 
 
 <!---
