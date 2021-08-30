@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor!
 - 👀 I’m interested in developing sotware programs like web & mobile. I also love to design.
 - 🌱 I’m currently learning react, nextjs, react native & flutter.
-- 💞️ I’m looking to collaborate on web and mobile developmers.
+- 💞️ I’m looking to collaborate with designers, web and mobile developers.
 - 📫 How to reach me on Twitter: @viknedus 
 
 
