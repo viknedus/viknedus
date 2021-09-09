@@ -12,7 +12,7 @@
 | Framer                                                                             | Figma                                                                                  |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [![Brass Mobile App Design Prototype](./assets/Brass.png)](https://bit.ly/3h4lzO6) | [![Figma community profile](./assets/AbegWebApp.png)](https://www.figma.com/@viknedus) |
-| and more designs on Canva.                                                         |
+| and more on Canva.                                                                 |
 
 <!---
 viknedus/viknedus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
