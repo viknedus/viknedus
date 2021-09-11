@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate with designers, as well as web and mobile developers.
 - 📫 How to reach me on Twitter: @viknedus
 
+---
+
 ## 🌱 Designs
 
 | Framer                                                                             | Figma                                                                                  |
