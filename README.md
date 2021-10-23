@@ -11,7 +11,7 @@
 
 ## 🌱 Designs
 
-- **Click on image to check out some of my designs**
+- *Click on image to check out some of my designs*
 
 [![Figma community profile](./assets/AbegWebApp.png)](https://www.figma.com/@viknedus) 
 
