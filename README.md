@@ -2,18 +2,26 @@
 
 ## 🙈 About Me
 
-- 👀 I’m interested in developing sotware programs like web & mobile. I also love to design.
-- 🌱 I’m currently learning react, nextjs, react native & flutter.
+- 👀 I’m a Front-end web developer & Designer.
+- 🌱 I work with React, Nextjs, React-Native.
 - 💞️ I’m looking to collaborate with designers, as well as web and mobile developers.
-- 📫 How to reach me on Twitter: @viknedus
+- 📫 I also design, prototype, & a bit of UI/UX.
 
 ---
 
-## 🌱 Designs
+## 🚀 Recent Projects
 
-- *Click on image to check out some of my designs*
+| Search engine                                                                            | IG web                                                                               |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [![Search v2](/assets/Search.png)](https://g-search-v2.vercel.app)                       | [![IG web](/assets/IGweb.png)](https://ig-web-v2.vercel.app/)                        |
+| [REPO](https://github.com/viknedus/G-search-v2) • [DEMO](https://g-search-v2.vercel.app) | [REPO](https://github.com/viknedus/ig-web-v2) • [DEMO](ttps://ig-web-v2.vercel.app/) |
+| Nextjs + Tailwind CSS, Google search API.                                                | Nextjs + Tailwind CSS, Firebase, Fakerjs, Next/router                                |
 
-[![Figma community profile](./assets/AbegWebApp.png)](https://www.figma.com/@viknedus) 
+---
+
+## 🌱 Figma stuff
+
+**Check out my Figma Community [Profile! 😊](https://www.figma.com/@viknedus)**
 
 <!---
 viknedus/viknedus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
